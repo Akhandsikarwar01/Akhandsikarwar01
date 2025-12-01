@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Akhandsikarwar01
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me akhandsikarwar@hotmail.com
-- 😄 Pronouns: Kartik
 - 🎓 Currently pursuing B.Tech in CSE (AI & ML) from Galgotias & BS in Data Science from IIT Madras.
 
 <!---
