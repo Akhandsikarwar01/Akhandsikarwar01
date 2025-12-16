@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akhandsikarwar01
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Data Science and Machine Learning 
 - 📫 How to reach me akhandsikarwar@hotmail.com
 - 🎓 Currently pursuing BS in Data Science from IIT Madras.
 
